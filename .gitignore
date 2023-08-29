@@ -1,0 +1,25 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/AppData
+/.vscode/extensions/ms-python.python-2023.14.0/pythonFiles/lib/python/debugpy/_vendored/pydevd/_pydevd_frame_eval
+/Documents
+/Downloads
+/eclipse/java-2023-06/eclipse
+/Microsoft/Power BI Desktop Store App/Cache
+/Microsoft/Power BI Desktop Store App/CertifiedExtensions
+/Microsoft/Power BI Desktop Store App
+/Microsoft/Power BI Desktop Store App/ExtensionCache/$iTisCGdsEZW2B9AejwhsYR5wMI92aagAO5rgBfaLY0=
+/OneDrive
+/.cache/tooling/gradle
+/.redhat
+/3D Objects
+/3D Objects/desktop.ini
+/IntelGraphicsProfiles
+/Favorites
+/Links
+/Music
+/Searches
+/source/repos
+/Videos
